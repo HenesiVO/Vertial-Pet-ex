@@ -1,0 +1,10 @@
+.gradation_test{
+    padding: 10px;
+    height: 500px;
+    background: linear-gradient(-90deg, rgba(239,138,239,0.6), rgba(202,255, 122,0.6));
+
+}
+
+p{
+    color: aquamarine;
+}
